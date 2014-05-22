@@ -1,0 +1,1 @@
+Add directories that hold mp3s to the config.yaml file.  Run the playlists.rb file in the same dir with the config file.
